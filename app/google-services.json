@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694436224605",
+    "project_id": "chhating-a081d",
+    "storage_bucket": "chhating-a081d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694436224605:android:eb3d8e7ad0914f0d7a77b4",
+        "android_client_info": {
+          "package_name": "com.chhating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4OtBHWH2XKHOYmrsCz0fY_zm0RA92zz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
