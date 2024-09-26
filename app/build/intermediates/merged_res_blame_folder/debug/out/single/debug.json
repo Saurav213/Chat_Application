@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_calling.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_calling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_call.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_contact_list_items.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\contact_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_sender_layout.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\sender_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_callback.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\callback.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_spartan_regular.otf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\spartan_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_spartan_bold.otf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\spartan_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_splashh.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\splashh.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_sendbtn.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\sendbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_mainback.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\mainback.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_registation.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_registation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_saurav_logo.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\saurav_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_chatback.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\chatback.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_reciver_layout.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\reciver_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_apptext.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\apptext.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_sender_shape.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\sender_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_reciver_shape.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\reciver_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_spartan_thin.otf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\spartan_thin.otf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_regestationbackg.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\regestationbackg.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_camera_add.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\camera_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_dancing.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\dancing.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_empty_background.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\empty_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_base_call.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\base_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_call_now.webp.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\call_now.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_camera_add2.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\camera_add2.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_shape_dialog.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\shape_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_camera_recycle.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\camera_recycle.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_bhu.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\bhu.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_poppins_italic.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\poppins_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_settingback.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\settingback.png"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_border_main.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\border_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_callkid.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\callkid.png"
+    },
+    {
+        "merged": "com.chhating.app-merged_res-34:/layout_activity_calling.xml.flat",
+        "source": "com.chhating.app-main-36:/layout/activity_calling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-merged_res-34:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\drawable\\setting.png"
+    }
+]

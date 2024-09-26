@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">694436224605</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4OtBHWH2XKHOYmrsCz0fY_zm0RA92zz8</string>
+    <string name="google_app_id" translatable="false">1:694436224605:android:eb3d8e7ad0914f0d7a77b4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4OtBHWH2XKHOYmrsCz0fY_zm0RA92zz8</string>
+    <string name="google_storage_bucket" translatable="false">chhating-a081d.appspot.com</string>
+    <string name="project_id" translatable="false">chhating-a081d</string>
+</resources>

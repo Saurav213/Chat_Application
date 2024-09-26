@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\contact_list_items.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\contact_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_contact.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\user_item.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_calling.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_calling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\sender_layout.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\sender_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\reciver_layout.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\reciver_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_registation.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_registation.xml"
+    },
+    {
+        "merged": "com.chhating.app-mergeDebugResources-33:/layout/activity_calling.xml",
+        "source": "com.chhating.app-main-36:/layout/activity_calling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\dialog_layout.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-mergeDebugResources-33:\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Gaurav Singh\\.gradle\\daemon\\8.0\\com.chhating.app-main-36:\\layout\\activity_setting.xml"
+    }
+]

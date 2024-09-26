@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/regestationbackg"
+    tools:context=".Registation">
+
+    <TextView
+        android:layout_width="215dp"
+        android:layout_height="35dp"
+        android:gravity="center_vertical"
+        tools:ignore="MissingConstraints"
+        android:fontFamily="@font/poppins_regular"
+        android:textSize="26dp"
+        android:text="Create New"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.174"
+        app:layout_constraintVertical_bias="0.019"
+        />
+    <TextView
+        android:layout_width="310dp"
+        android:layout_height="41dp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="Account"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="26dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.33"
+        app:layout_constraintVertical_bias="0.07"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/rej_profile"
+        android:layout_width="151dp"
+        android:layout_height="130dp"
+        android:src="@drawable/camera_add"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.538"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.226"
+        />
+
+    <EditText
+        android:id="@+id/rej_name"
+        android:layout_width="260dp"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="User Name"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.243"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.45"/>
+
+
+    <EditText
+        android:id="@+id/rej_email"
+        android:layout_width="260dp"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="Email"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.243"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.55"/>
+    <EditText
+        android:id="@+id/rej_password"
+        android:layout_width="260dp"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="Enter Password"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.243"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.65"/>
+
+    <EditText
+        android:id="@+id/rej_re_password"
+        android:layout_width="260dp"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="Conform Password"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.243"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.75"/>
+
+    <Button
+        android:id="@+id/rej_signup"
+        android:layout_width="250dp"
+        android:layout_height="55dp"
+        android:text="SIGNUP"
+        android:textSize="20dp"
+        android:backgroundTint="@color/black"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.87"/>
+
+
+    <TextView
+        android:id="@+id/rej_login"
+        android:layout_width="124dp"
+        android:layout_height="24dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="Login!"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.536"
+        app:layout_constraintVertical_bias="0.95"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
